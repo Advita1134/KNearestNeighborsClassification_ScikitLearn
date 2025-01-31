@@ -3,5 +3,5 @@ KNearestNeighbors uses data that already have their targets. It gets new data an
 
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier
 
-![](image_2.png)
+![KNNClassificationGraph](KNNClassificationGraph.png)
 
